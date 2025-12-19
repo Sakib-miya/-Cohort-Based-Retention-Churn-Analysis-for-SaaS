@@ -124,3 +124,19 @@ Simulate A/B tests for onboarding and pricing
 
 Forecast revenue impact of retention improvements
 
+here is visualizing Dashboards
+<img width="3600" height="1800" alt="ltv_by_cohort" src="https://github.com/user-attachments/assets/ff72333b-6f2c-4a3b-9c73-1bfed599c2a9" />
+<img width="1920" height="1440" alt="retention_by_tier" src="https://github.com/user-attachments/assets/9f98d424-1876-4e34-8a71-773f6e26c0d8" />
+<img width="2400" height="1800" alt="churn_risk" src="https://github.com/user-attachments/assets/889e92b1-d72f-447c-b2c1-72566a3a85e1" />
+<img width="4200" height="2400" alt="cohort_retention_heatmap" src="https://github.com/user-attachments/assets/a54fa592-eb3a-4fb6-a143-f071984b59a6" />
+
+
+
+here is powerbi Dashboard screenshots
+<img width="1150" height="649" alt="Screenshot 2025-12-19 215236" src="https://github.com/user-attachments/assets/08a8ea3a-1eff-4349-a64b-c93b4a120b36" />
+<img width="1149" height="642" alt="Screenshot 2025-12-19 215245" src="https://github.com/user-attachments/assets/248dfa51-3218-4623-9463-aa7915fb8fa8" />
+<img width="1151" height="645" alt="Screenshot 2025-12-19 215255" src="https://github.com/user-attachments/assets/d56d8bc3-8ab6-49a8-aed1-90eddd331184" />
+
+
+
+
